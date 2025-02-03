@@ -60,7 +60,7 @@ set(HEADERS
     src/core/config/ConfigTransform.h
     src/core/config/usage.h
     src/core/Controller.h
-    src/core/Miner.h
+    src/core/project3.h
     src/core/Taskbar.h
     src/net/interfaces/IJobResultListener.h
     src/net/JobResult.h
