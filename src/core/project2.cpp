@@ -21,7 +21,7 @@
 #include <thread>
 
 
-#include "core/Miner.h"
+#include "core/project3.h"
 #include "core/Taskbar.h"
 #include "3rdparty/rapidjson/document.h"
 #include "backend/common/Hashrate.h"
