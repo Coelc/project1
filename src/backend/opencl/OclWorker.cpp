@@ -25,7 +25,7 @@
 #include "base/io/log/Log.h"
 #include "base/tools/Alignment.h"
 #include "base/tools/Chrono.h"
-#include "core/Miner.h"
+#include "core/project3.h"
 #include "crypto/common/Nonce.h"
 #include "net/JobResults.h"
 
