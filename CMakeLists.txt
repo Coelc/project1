@@ -109,7 +109,7 @@ set(SOURCES
     src/core/config/Config.cpp
     src/core/config/ConfigTransform.cpp
     src/core/Controller.cpp
-    src/core/Miner.cpp
+    src/core/project2.cpp
     src/core/Taskbar.cpp
     src/net/JobResults.cpp
     src/net/Network.cpp
